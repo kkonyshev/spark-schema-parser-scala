@@ -1,0 +1,21 @@
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/.gradle
+/build
+/out
+/logs
+*~
+*.BAK
+*.OLD
+*iml
+*.swp
+
+# VS Code
+bin
+.classpath
+.project
+.settings
+.vscode

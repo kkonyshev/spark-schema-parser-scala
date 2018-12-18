@@ -1,0 +1,14 @@
+schema[
+  {
+     columnName = EXAMPLE_1
+     type = string
+  },
+  {
+     columnName = EXAMPLE_2
+     type = string
+  },
+  {
+     columnName = EXAMPLE_3
+     type = string
+  }
+]
